@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am person who is working to grow and be a leader, be of relevance to the society and add value to all the stakeholders; to keep learning continuously and be effective, in every role that I play in any dynamic business environment. <br>To be a data scientist with deep insights in the areas of big data analytics and AIML.
+I am a person who is working to grow and be a leader, be of relevance to the society and add value to all the stakeholders; to keep learning continuously and be effective, in every role that I play in any dynamic business environment. <br>To be a data scientist with deep insights in the areas of big data analytics and AIML.
 
 
 ## 🌐 Socials:
